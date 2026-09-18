@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "GharLink",
-  "short_name": "GharLink",
-  "description": "GharLink - Everything. One Place.",
+  "name": "My-all-platforms-link",
+  "short_name": "Sahil Hub",
+  "description": "Sahil Hub - Everything. One Place.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
